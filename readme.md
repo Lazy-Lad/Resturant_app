@@ -1,7 +1,7 @@
 <h1>Restaurant List</h1>
 
 <p>This is smaple andriod app only for UI demonstration</p>
-
+<h4>Download Apk file from release.</h4>
 <h3>ScreenShots</h3>
 
 <table style="width:100%">
