@@ -2,7 +2,7 @@
 
 <p>This is a sample of an android application, only for UI demonstration</p>
 <h4><a href="https://github.com/Lazy-Lad/Resturant_app/releases">Download Apk file from release.</a></h4>
-<h3>ScreenShots</h3>
+<h3>Screenshots</h3>
 
 <table style="width:100%">
           <tr>
